@@ -23,6 +23,6 @@ Review the GitHub repository [here](https://github.com/jes-rod/findyourrecipe)
 
 ## REDUX CHALLENGE | Flashcards app with redux and MongoDB
 
-This [Flashcards](https://findyourrecipeapp.netlify.app/) is a tech-job search portal website that allows users to explore different tech related jobs by making use of the Findwork API with a friendly and fresh UI using Bootstrap. 
+This [Flashcards](https://jasrod-redux-flashcards.netlify.app/) is a tech-job search portal website that allows users to explore different tech related jobs by making use of the Findwork API with a friendly and fresh UI using Bootstrap. 
 
-Review the GitHub repository [here](https://github.com/jes-rod/findyourrecipe)
+Review the GitHub repository [here](https://github.com/jes-rod/redux-flashcards-frontend)
