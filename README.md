@@ -17,7 +17,7 @@ Review the GitHub repository [here](https://github.com/jes-rod/axion)
 
 ## FINDYOURECIPE | Cooking recipe finder | React app
 
-[FINDYOURRECIPE](https://findyourrecipeapp.netlify.app/) is a tech-job search portal website that allows users to explore different tech related jobs by making use of the Findwork API with a friendly and fresh UI using Bootstrap. 
+[FINDYOURRECIPE](https://findyourrecipeapp.netlify.app/) is a website that serves as a recipe finder built in React and Bootstrap and makes usage of the Spoonacular API to fetch the recipes data.
 
 Review the GitHub repository [here](https://github.com/jes-rod/findyourrecipe)
 
